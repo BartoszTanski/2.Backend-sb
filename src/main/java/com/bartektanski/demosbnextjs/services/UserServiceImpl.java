@@ -1,10 +1,8 @@
 package com.bartektanski.demosbnextjs.services;
 
 import java.util.List;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
-import org.aspectj.weaver.NewConstructorTypeMunger;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 
